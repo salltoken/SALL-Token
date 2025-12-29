@@ -71,6 +71,18 @@ All partnerships are established under the **One Law Collaboration License (OLCL
 
 
 
+## 🤝 Contributing
+
+We welcome serious contributors across protocol, infrastructure, security, AI/data, and governance tooling.
+
+Participation is execution-focused and contribution-driven.
+
+- See: CONTRIBUTING.md  
+- Start with: Issues (including the pinned “Core Contributors Wanted” issue)  
+- Contact: hello@salltoken.com | hello@systemofall.com
+
+
+
 ## 🕊️ License
 This repository and all related intellectual property are protected under the **One Law Collaboration License (OLCL-1.0)**.  
 Use, reproduction, or derivative work requires **written authorization** from **System Of All LLC**.  
